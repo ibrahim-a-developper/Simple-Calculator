@@ -11,6 +11,9 @@ Please copy and paste this in your hookss --->Prepare-commit-msg and delete .sam
 # # message file.  If the hook fails with a non-zero status,
 # # the commit is aborted.
 # #
+
+
+
 # # To enable this hook, rename this file to "prepare-commit-msg".
 # # This hook includes three examples. The first one removes the
 # # "# Please enter the commit message..." help message.
