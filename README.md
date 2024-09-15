@@ -2,8 +2,6 @@
 
 Please copy and paste this in your hookss --->Prepare-commit-msg and delete .sample in the file name
 
-
-
 #!/bin/sh
 # #
 # # An example hook script to prepare the commit log message.
