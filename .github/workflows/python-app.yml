@@ -38,6 +38,7 @@ jobs:
           pytest
 
   docker-build-and-pushed:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Login to Docker Hub
