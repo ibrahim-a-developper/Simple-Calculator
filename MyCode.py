@@ -5,8 +5,8 @@ def add_numbers(a, b):
 
 def sub_numbers(a, b):
     return a - b
-
-def get_user_input():
+xbxhg
+def get_u
     a = float(input("first number:"))
     b = float(input("second number:"))
     return a, b
