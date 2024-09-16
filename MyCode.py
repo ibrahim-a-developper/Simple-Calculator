@@ -5,14 +5,11 @@ def add_numbers(a, b):
 
 def sub_numbers(a, b):
     return a - b
-xbxhg
-def get_u
+
+def get_user_input():
     a = float(input("first number:"))
     b = float(input("second number:"))
     return a, b
-
-
-
 
 if __name__ == "__main__":
     num1, num2 = get_user_input()
